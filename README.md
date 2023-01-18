@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Psiicke a Newbie Web Developer!
+- 👋 Hi, I’m Vinicius Barbosa @Psiicke a Newbie Web Developer!
 - 👀 I’m interested in Computer Science, Games, Anime/Manga.
-- 🌱 I’m currently learning CSS3.
+- 🌱 I’m currently learning HTML/CSS.
 
 <!---
 Psiicke/Psiicke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
